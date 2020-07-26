@@ -13,6 +13,11 @@ The Application follows the Standard style, and eslint has been used for linting
 ## Tech/framework used
 <b>Built with</b>
 - [ReactJS](https://reactjs.org)
+- [Bootstrap](https://getbootstrap.com/)
+- [Axios](https://github.com/axios/axios)
+- [Redux](https://redux.js.org/)
+- [HERE Maps API](https://developer.here.com/products/maps)
+- [GeoIQ API](https://www.geoiq.io/covid19.html)
 
 ## Features
 - Enter an address and visualize the Address, in GMaps Style!
