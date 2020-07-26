@@ -2,8 +2,7 @@ import React, { Component } from "react";
 import Navbar from "../components/navbar/navbar";
 import AddressField from "../components/address-field/addressField";
 import HistoryLog from "../components/historyLog/historyLog";
-import MapVisual from "../components/mapVisual/mapVisual";
-import "./homePage.css";
+import MapVisual from "../components/mapVisual/mapVisual
 
 export class HomePage extends Component {
   render() {
