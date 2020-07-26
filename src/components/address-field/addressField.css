@@ -1,0 +1,14 @@
+.AddressField {
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+
+.AddressField input {
+  height: 50px;
+  border-color: black;
+  margin-right: 10px;
+}
+
+.AddressField button {
+  height: 50px;
+}

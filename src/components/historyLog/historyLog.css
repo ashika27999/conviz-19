@@ -1,0 +1,12 @@
+.HistoryLog {
+  position: relative;
+  height: 500px;
+  overflow: auto;
+  display: block;
+  align-self: center;
+}
+
+.HistoryLog button {
+  border: none;
+  background-color: white;
+}
