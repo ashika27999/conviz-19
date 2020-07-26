@@ -1,7 +1,6 @@
 ## Conviz-19
 Coviz-19 is a Web application developed using ReactJS to visualize the COVID-19 situation across different zones. The user can enter an address and visualize the address in a map and check the total COVID-19 cases (both active/total) by clicking on the marker in the map. The user's search history is also tabulated for logging and comparison purposes.  
-This project is hosted on Heroku:
--https://conviz-19.herokuapp.com/
+This project is hosted on Heroku: https://conviz-19.herokuapp.com/
 
 ## Build status
 The project is in it's alpha stage. 
