@@ -1,6 +1,5 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import "./index.css";
 import HomePage from "./pages/homePage";
 import { createStore, applyMiddleware } from "redux";
 import rootReducer from "./store/reducers/rootReducer";
