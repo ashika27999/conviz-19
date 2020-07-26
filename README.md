@@ -10,7 +10,7 @@ The Application follows the Standard style, and eslint has been used for linting
 
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
 
-## Tech/framework used
+## Tech/Framework used
 <b>Built with</b>
 - [ReactJS](https://reactjs.org)
 - [Bootstrap](https://getbootstrap.com/)
@@ -46,5 +46,5 @@ npm start
 ```
 - Enter an address in the input field and hit Go!
 - You should now see your address' Latitude, Longitude and the Containment Status in the Search History Table.
-- In addition to this, there should be a marker in the map visual. Upon clicking the marker, you can be able to see the District the address is in, the number of active COVID-19 cases, and the total COVID-19 cases reported in that district.
-- Try clicking any of your search history rows. Notice that the Map changes to visualize the address you just selected.
+- In addition to this, there should be a marker in the map visual. Upon clicking the marker, you'll able to see the district where the address is in, the number of active COVID-19 cases, and the total COVID-19 cases reported in that district.
+- Try clicking any of your search history rows. You'll notice that the Map changes to visualize the address you just selected.
